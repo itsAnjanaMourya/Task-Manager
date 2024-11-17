@@ -51,6 +51,10 @@
     
     Delete: Remove notes you no longer need.
 
+    Search: Search any task using search bar.
+
+    Priority Filter: Filter task by High or Low priority (High priority: red, Low Priority: green, Medium Priority: yellow).
+
 **API Endpoints**
 ### Authentication
     POST /user/register: Register a new user.
@@ -68,3 +72,8 @@
 
     DELETE /notes/deleteNote/:id: Delete a note by its ID.
 
+### Project Screenshots
+![home page1](project_screenshots\Screenshot1.png)
+![home page2](project_screenshots\Screenshot2.png)
+![login](project_screenshots\Screenshot3.png)
+![register](project_screenshots\Screenshot4.png)
