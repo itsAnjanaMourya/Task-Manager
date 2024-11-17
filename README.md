@@ -73,7 +73,7 @@
     DELETE /notes/deleteNote/:id: Delete a note by its ID.
 
 ### Project Screenshots
-![home page1](project_screenshots\Screenshot1.png)
-![home page2](project_screenshots\Screenshot2.png)
-![login](project_screenshots\Screenshot3.png)
-![register](project_screenshots\Screenshot4.png)
+![home page1](./project_screenshots/Screenshot1.png)
+![home page2](./project_screenshots/Screenshot2.png)
+![login](./project_screenshots/Screenshot3.png)
+![register](./project_screenshots/Screenshot4.png)
